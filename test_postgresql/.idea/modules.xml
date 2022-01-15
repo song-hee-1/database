@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../database/.idea/database.iml" filepath="$PROJECT_DIR$/../database/.idea/database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../doit-swift/.idea/doit-swift.iml" filepath="$PROJECT_DIR$/../doit-swift/.idea/doit-swift.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/test_postgresql.iml" filepath="$PROJECT_DIR$/.idea/test_postgresql.iml" />
+    </modules>
+  </component>
+</project>
